@@ -40,6 +40,8 @@ Hi, I'm Rose Sponseller, CSS enthusiast and Sketch/Illustrator admirer. I love c
 
 ---
 
+## Projects 
+
 ### JavaScript
 
 #### [Packpartout](https://github.com/avocadobravado/packpartout)
