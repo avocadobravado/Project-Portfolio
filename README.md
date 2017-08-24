@@ -40,7 +40,7 @@ Hi, I'm Rose Sponseller, CSS enthusiast and Sketch/Illustrator admirer. I love c
 
 ---
 
-## Projects 
+## Projects
 
 ### JavaScript
 
@@ -67,7 +67,7 @@ Hi, I'm Rose Sponseller, CSS enthusiast and Sketch/Illustrator admirer. I love c
  * **Tools:** CSS, Sass, jQuery, JavaScript, Node, npm, Bower, Gulp, Brewery DB API
 
 #### [Goat's Alarm Clock](https://github.com/avocadobravado/alarm-clock)
- * **Description:** Goat's Alarm Clock is a simple JavaScript/jQuery alarm clock. The app was built to practice the separation of front end and back end logic and to practice setting up a project with front end dependencies such as npm, Gulp, and Bower.
+ * **Description:** Goat's Alarm Clock is a simple JavaScript/jQuery alarm clock. The app was built to practice the separation of logic and setting up a project with front end dependencies such as npm, Gulp, and Bower.
  * **Tools:** CSS, Sass, Materialize, JavaScript, jQuery, Moment.js, Node, npm, Bower, Gulp
 
 #### [Deep Dish 9](https://github.com/avocadobravado/intro-week04)
