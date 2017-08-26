@@ -26,7 +26,7 @@ Hi, I'm Rose Sponseller, CSS enthusiast and Sketch/Illustrator admirer. I love c
 #### Design
 * Adobe Illustrator, Photoshop, InDesign
 * Adobe InDesign
-* SketchApp
+* Sketch
 * InVision
 * Responsive & Mobile Design
 * User Interface Design
