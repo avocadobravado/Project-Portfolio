@@ -18,14 +18,13 @@ Hi, I'm Rose Sponseller, CSS enthusiast and Sketch/Illustrator admirer. I love c
 
 #### Development
 * HTML, CSS/Sass
-* _Front end frameworks:_ Bootstrap, Foundation, Materialize, Bourbon & Neat, Skeleton
+* _CSS frameworks:_ Bootstrap, Foundation, Materialize, Bourbon & Neat, Skeleton
 * _Content Management Systems:_ WordPress, Squarespace
 * JavaScript, jQuery, Angular
 * HTML & MailChimp email design
 
 #### Design
 * Adobe Illustrator, Photoshop, InDesign
-* Adobe InDesign
 * Sketch
 * InVision
 * Responsive & Mobile Design
@@ -59,7 +58,7 @@ Hi, I'm Rose Sponseller, CSS enthusiast and Sketch/Illustrator admirer. I love c
 * **Tools:** CSS, Sass, Materialize, jQuery, JavaScript, Node, npm, Bower, Gulp, BetterDoctor API
 
 #### [Geocache Me](https://github.com/avocadobravado/javascript-week4)
-* **Description:** The app allows users to search for geocaches in the existing database, as well as add new geocaches. Users can also view specific details of an individual cache (latitude, longitude, physical address, and submitter/creator of the cache) by clicking on the "See Details" button.
+* **Description:** The app allows users to search for geocaches, as well as add new geocaches. Users can also view specific details of an individual cache (latitude, longitude, physical address, and submitter/creator of the cache) by clicking on the "See Details" button.
 * **Tools:** CSS, Bootstrap, JavaScript, TypeScript, Angular 2, Node, Bower, npm, Angular CLI, Firebase, Geocode API
 
 #### [Beeripedia](https://github.com/avocadobravado/beer-dictionary)
